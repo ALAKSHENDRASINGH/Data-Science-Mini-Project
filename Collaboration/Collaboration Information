@@ -1,0 +1,14 @@
+Collaborated With:
+Name: Shreyas Kasture
+
+• Dataset: National Achievement Survey (NAS) 
+• Source: National Data and Analytics Platform (NDAP), Ministry of Education 
+• Geographical Coverage: 737 districts across 36 states/UTs 
+• Temporal Range: Calendar Year 2017 to Calendar Year 2021 
+• Dataset Size: 1,405 rows (district-year combinations) 
+• Target Classes: Class 3, Class 5, and Class 8 
+• Subjects Covered: Language, Mathematics, Science, Social Science
+
+• Collab File : https://colab.research.google.com/drive/1Z4O6vcmU-VzGWQ7qIMhX4ypFZWtCBbBo?usp=sharing
+
+• Deployed Application: Streamlit Application: https://shreyas-national-achievement-survey.streamlit.app/ 
